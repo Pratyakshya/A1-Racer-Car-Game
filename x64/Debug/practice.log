@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\practice\OpenGL\lab\practice\main.cpp(18,20): error C4578: 'abs': conversion from 'double' to 'int', possible loss of data (Did you mean to call 'fabs' or to #include <cmath>?)
+E:\practice\OpenGL\lab\practice\main.cpp(18,30): error C4578: 'abs': conversion from 'double' to 'int', possible loss of data (Did you mean to call 'fabs' or to #include <cmath>?)
+E:\practice\OpenGL\lab\practice\main.cpp(18,42): error C4578: 'abs': conversion from 'double' to 'int', possible loss of data (Did you mean to call 'fabs' or to #include <cmath>?)
+E:\practice\OpenGL\lab\practice\main.cpp(18,54): error C4578: 'abs': conversion from 'double' to 'int', possible loss of data (Did you mean to call 'fabs' or to #include <cmath>?)

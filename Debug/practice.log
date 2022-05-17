@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\practice\OpenGL\lab\practice\main.cpp(304,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  practice.vcxproj -> E:\practice\OpenGL\lab\practice\Debug\practice.exe
